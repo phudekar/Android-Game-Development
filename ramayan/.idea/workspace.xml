@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="2.7in QVGA" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-15" />
+        <option name="theme" value="Theme" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="dockMode" value="" />
+        <option name="nightMode" value="notnight" />
+        <option name="targetHashString" value="android-15" />
+        <option name="theme" value="Theme" />
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9db4fe2e-04db-4cc7-8079-17aef223bf1c" name="Default" comment="" />
+    <ignored path="ramayan.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Sprite.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355159190987" ignored="false" />
+    <file path="/Screen.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354783523943" ignored="false" />
+    <file path="/AnimationClip.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354769998426" ignored="false" />
+    <file path="/Animation.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354770048256" ignored="false" />
+    <file path="/Shape.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354906334651" ignored="false" />
+    <file path="/Square.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354784359680" ignored="false" />
+    <file path="/ResourceManager.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354771525439" ignored="false" />
+    <file path="/ShaderProgram.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354775279491" ignored="false" />
+    <file path="/ShaderManager.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354777421787" ignored="false" />
+    <file path="/Game.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354908184219" ignored="false" />
+    <file path="/Dummy.txt" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143279359" ignored="false" />
+    <file path="/RamayanGame.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354781892557" ignored="false" />
+    <file path="/HomeScreen.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355075196212" ignored="false" />
+    <file path="/fragment.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143279359" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354779249717" ignored="false" />
+    <file path="/a.dummy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355129876750" ignored="false" />
+    <file path="/GameSurfaceView.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354907134331" ignored="false" />
+    <file path="/Texture.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354795947021" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/modules/zoover/src/test/java/eu/eurodir/at/cds/modules/zoover/ReviewXmlGeneratorTest.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354790652268" ignored="false" />
+    <file path="/ReviewXmlGeneratorTest.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354790553860" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/modules/pom.xml" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354790652268" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/modules/zoover/src/test/java/eu/eurodir/at/cds/modules/zoover/FeedReaderTest.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354790652268" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cap-ws/src/main/resources/eu/eurodir/at/webapps/cap/config/spring/async-config.xml" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355131619955" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/modules/zoover/pom.xml" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354790652268" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/pom.xml" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354790652268" ignored="false" />
+    <file path="/basic_shader_vert.hls" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354906284886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cap/src/main/java/eu/eurodir/at/modules/cap/service/impl/CAPImportServiceImpl.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355132514747" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/content/listing/controller/YellowPagesListingController.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355126161635" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/webapps/listingsapi/rest/YellowPagesController.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355124176939" ignored="false" />
+    <file path="/YellowPagesListingController.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355125478453" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/content/listing/service/ListingService.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355125465944" ignored="false" />
+    <file path="/ListingService.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355125159423" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/content/listing/service/impl/ListingServiceImpl.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355128936267" ignored="false" />
+    <file path="/ListingServiceImpl.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355128914895" ignored="false" />
+    <file path="/ListingDao.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355125265135" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/content/listing/dao/ListingDao.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355125428087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/content/listing/dao/impl/ListingDaoImpl.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355132890037" ignored="false" />
+    <file path="/ListingDaoImpl.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355132883665" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/content/common/definition/ListingsDefinition.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355130050365" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/content/common/definition/ContentDefinition.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354876537454" ignored="false" />
+    <file path="/ContentDefinition.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354876531830" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/test/java/eu/eurodir/at/content/review/service/impl/ReviewServiceTest.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354876537454" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/content/common/helper/DBObjectTransformer.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354876537454" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/content/common/ContentFieldPopulator.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355129051791" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/content/review/service/impl/CommentsServiceImpl.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354876537454" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/content/review/service/impl/ReviewServiceImpl.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354876537454" ignored="false" />
+    <file path="/Button.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355075069467" ignored="false" />
+    <file path="/InputManager.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1354907286967" ignored="false" />
+    <file path="/ListingsDefinition.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355130047521" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/test/java/eu/eurodir/at/content/listing/dao/impl/ListingDaoImplTest.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355134089450" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/main/java/eu/eurodir/at/content/review/dao/impl/ReviewDaoImpl.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355127072302" ignored="false" />
+    <file path="/ReviewDaoImpl.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355127057945" ignored="false" />
+    <file path="/CAPImportServiceImpl.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355132381649" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cap/src/main/java/eu/eurodir/at/modules/cap/service/ContentClient.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355132396199" ignored="false" />
+    <file path="/ContentClient.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355132396199" ignored="false" />
+    <file path="/ListingDaoImplTest.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355134081420" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/web/content/src/test/java/eu/eurodir/at/content/util/DBObjectMatcher.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355133868241" ignored="false" />
+    <file path="/DBObjectMatcher.java" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355133865909" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerGetByPersistentIdTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143405755" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerGetByPersistentIdsTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143868076" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerGetUpdatedTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143752739" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerGetByPersistentIdTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143515210" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerGetDeletedTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143536628" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerGetStatisticsTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143546615" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143559785" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerUploadListingsTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143569119" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerGetByPersistentIdsTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143589550" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerGetDeletedTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143596193" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerGetStatisticsTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143604387" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerGetUpdatedTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143615432" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143622701" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerUploadListingsLockMechanismTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143628852" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerUploadListingsTest.groovy" changelist="9db4fe2e-04db-4cc7-8079-17aef223bf1c" time="1355143639864" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ramayan" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="basic_shader_vert.hls" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/raw/basic_shader_vert.hls">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="27" selection-start="615" selection-end="615" vertical-scroll-proportion="0.85714287">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeScreen.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/in/hpc/android/ramayan/HomeScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="49" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="expandStates">
+      <map>
+        <entry key="ramayan" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/in/hpc/android/game/ShaderManager.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/game/Screen.java" />
+        <option value="$PROJECT_DIR$/res/raw/basic_shader_frag.hlsl" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/game/Square.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/game/ResourceManager.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/game/Texture.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/game/Position.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/game/Vector2.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/game/GameSurfaceView.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/game/InputManager.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/game/Game.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/game/Shape.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/ramayan/Button.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/game/Sprite.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/android/ramayan/HomeScreen.java" />
+        <option value="$PROJECT_DIR$/res/raw/basic_shader_vert.hls" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="raw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ramayan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/in/hpc/android" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ed/cds" />
+    <property name="AndroidLayoutSelectedEditor" value="android-designer" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Workspace\android\ramayan\res\drawable" />
+      <recent name="C:\Workspace\android\ramayan\assets\raw" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="in.hpc.android.game" />
+      <recent name="in.hpc.game" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Workspace\android\ramayan\res\raw" />
+      <recent name="C:\Workspace\android\ramayan\res\layout" />
+      <recent name="C:\Workspace\android\ramayan\res\drawable" />
+      <recent name="C:\Workspace\android\ramayan\res\drawable\raw" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.ramayan">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ramayan" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="ramayan" />
+      <option name="ACTIVITY_CLASS" value="in.hpc.android.ramayan.RamayanGame" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="Nexus" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OpenGLES20Complete" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="OpenGLES20Complete" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="Nexus" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OpenGLES20Basic" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="OpenGLES20Basic" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.ramayan" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.OpenGLES20Complete" />
+      <item index="2" class="java.lang.String" itemvalue="Android Application.OpenGLES20Basic" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9db4fe2e-04db-4cc7-8079-17aef223bf1c" name="Default" comment="" />
+      <created>1354204015929</created>
+      <updated>1354204015929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48490232" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32246998" sideWeight="0.49772727" order="15" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285968" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3197158" sideWeight="0.4969697" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5409556" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.56305504" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3007576" sideWeight="0.6802842" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24333926" sideWeight="0.4969697" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.67064846" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.67064846" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5917667" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268206" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-15/android.jar!/android/opengl/GLES20.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="324" column="30" selection-start="17244" selection-end="17244" vertical-scroll-proportion="0.33043477" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/game/RendererConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="28" selection-start="142" selection-end="142" vertical-scroll-proportion="0.20481928">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/game/ResourceManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="80" selection-start="1010" selection-end="1010" vertical-scroll-proportion="0.45180723">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/game/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="38" selection-start="329" selection-end="329" vertical-scroll-proportion="0.26062322">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/game/Texture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="112" selection-start="2032" selection-end="2032" vertical-scroll-proportion="0.79886687">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/basic_shader_frag.hlsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="5" selection-start="76" selection-end="76" vertical-scroll-proportion="0.2560241" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/game/GameSurfaceView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="50" selection-start="355" selection-end="355" vertical-scroll-proportion="0.23809524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/game/InputManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="0" selection-start="1922" selection-end="1922" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/game/Vector2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="120" selection-end="120" vertical-scroll-proportion="0.074074075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/game/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="23" selection-start="2985" selection-end="2985" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/game/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="23" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/ramayan/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="33" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/game/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="22" selection-start="4539" selection-end="4539" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/game/Sprite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="75" selection-start="447" selection-end="447" vertical-scroll-proportion="0.52100843">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/android/ramayan/HomeScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="49" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/basic_shader_vert.hls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="27" selection-start="615" selection-end="615" vertical-scroll-proportion="0.85714287">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android 4.0.3 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OpenGLES20Complete</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

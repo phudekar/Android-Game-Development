@@ -1,0 +1,30 @@
+uniform mat4 uMVPMatrix;
+
+attribute float aAngle;
+attribute vec2 aTranslate;
+attribute vec2 aScale;
+
+attribute vec4 vPosition;
+attribute vec2 aTexturePosition;
+
+varying vec2 vTexturePosition;
+
+void main() {
+
+mat4 translationMatrix = mat4(
+        vec4( 1.0, 0.0, 0.0, aTranslate.x),
+        vec4( 0.0, 1.0, 0.0, aTranslate.y),
+        vec4( 0.0, 0.0, 1.0, 0.0),
+        vec4( 0.0, 0.0, 0.0, 1.0)
+     );
+
+mat4 scaleMatrix = mat4(
+        vec4( aScale.x, 0.0, 0.0, 0.0),
+        vec4( 0.0, aScale.y, 0.0, 0.0),
+        vec4( 0.0, 0.0, 1.0, 0.0),
+        vec4( 0.0, 0.0, 0.0, 1.0)
+     );
+
+  gl_Position = vPosition   *scaleMatrix* uMVPMatrix;
+  vTexturePosition = aTexturePosition;
+}
